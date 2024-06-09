@@ -1,0 +1,39 @@
+#loader{
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+    position: fixed;
+    z-index: 999;
+    bottom: 0;
+    transition: all ease 2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #loader h1{
+    font-size: 4vw;
+    color: transparent;
+    background: linear-gradient(to right,orange,orangered);
+    -webkit-background-clip: text;
+    position: absolute;
+    opacity: 0;
+    animation-name: load;
+    animation-duration: 1.5s;
+    animation-delay: 0.2s;
+    animation-timing-function: linear;
+  }
+  @keyframes load {
+    0%{
+        opacity: 0;
+    }
+    5%{
+        opacity: 1;
+    }
+    90%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}

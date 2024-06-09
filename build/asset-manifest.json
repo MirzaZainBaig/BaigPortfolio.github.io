@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a55b1d6.css",
+    "main.js": "/static/js/main.b7fb80b6.js",
+    "static/media/workSixImg.png": "/static/media/workSixImg.9e23ae029b43b57c92c1.png",
+    "static/media/workTwoImg.png": "/static/media/workTwoImg.c7adef24abc54b262967.png",
+    "static/media/workOneImg.png": "/static/media/workOneImg.64a37fb1dc22b32c43b9.png",
+    "static/media/workFourImg.png": "/static/media/workFourImg.da4698adb74929b3e534.png",
+    "static/media/workThreeImg.png": "/static/media/workThreeImg.87f2709266f85c416737.png",
+    "static/media/workFiveImg.png": "/static/media/workFiveImg.d74a96cbcec6cf93d441.png",
+    "static/media/bannerImg3.png": "/static/media/bannerImg3.c5a0ee2684b6383d3f96.png",
+    "static/media/bannerImg4.jpg": "/static/media/bannerImg4.4a49f763c295a6a6cc39.jpg",
+    "static/media/workImgSix.jpg": "/static/media/workImgSix.d899a4337fada00f42a3.jpg",
+    "static/media/workImgFour.jpg": "/static/media/workImgFour.10ddd9b44b0d0802f131.jpg",
+    "static/media/blogImgOne.jpg": "/static/media/blogImgOne.a49c0711b3657270c30d.jpg",
+    "static/media/blogImgThree.jpg": "/static/media/blogImgThree.020cf6588ec70e316c6a.jpg",
+    "static/media/blogImgTwo.jpg": "/static/media/blogImgTwo.6aed37cec2695c32850c.jpg",
+    "static/media/MirzaResume.pdf": "/static/media/MirzaResume.8fb36fd520ee6e2bd1a3.pdf",
+    "index.html": "/index.html",
+    "main.7a55b1d6.css.map": "/static/css/main.7a55b1d6.css.map",
+    "main.b7fb80b6.js.map": "/static/js/main.b7fb80b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a55b1d6.css",
+    "static/js/main.b7fb80b6.js"
+  ]
+}
